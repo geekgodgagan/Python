@@ -1,5 +1,5 @@
 # My Mall Android Application 
-This App have feature of add product to cart, Give review and paymnet screen.<br>
+This App have feature of add product to cart, Give review and payment screen.<br>
 This is a E-commerce Android application Application <br>
 
 ## Screensort
